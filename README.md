@@ -1,5 +1,7 @@
 # esx_GiveCarKeys for FIVEMTURK
 
+https://www.fivemturk.com/threads/paylasim-turkce-esx_givecarkeys.13677/
+
 #### Kurulum/Setup
 
 - esx_GiveCarKeys klasörünü resources klasörünüze taşıyın.
